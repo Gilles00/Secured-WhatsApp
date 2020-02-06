@@ -7,3 +7,5 @@ REQUIREMENTS:
 2. Install python in the end user. 
 
 3. Find the IP address of the virtual server in AWS and update it in socket_client.py file.
+
+4. To accomodate more than one user, change the "NUMBER_OF_THREADS" and "JOBS" in socket_server.py file.
